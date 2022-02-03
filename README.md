@@ -4,7 +4,9 @@
 An app to help keep track of a list or just a to do list.
 
 ## Installation
-Clone rep and run npm i to install necessary modules.  Also deployed on heroku.
+Clone rep and run npm i to install necessary modules.  Also deployed on [heroku]( https://young-lowlands-39154.herokuapp.com/)
+
+
 
 ## Images
 
